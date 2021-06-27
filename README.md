@@ -1,2 +1,2 @@
 # Quiz-Template
-# simple quiz templete using JAVA
+# simple quiz template using JAVA
